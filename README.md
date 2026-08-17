@@ -54,6 +54,8 @@ python classify_candidates.py
 # Mechanism visualization
 python generate_mechanism_fig.py
 
+```
+
 ## references
 Boothby, T. C. et al. (2017). Tardigrades Use Intrinsically Disordered Proteins to Survive Desiccation. Molecular Cell, 65(6), 975–984. DOI: 10.1016/j.molcel.2017.02.018
 Yamaguchi, A. et al. (2012). Two Novel Heat-Soluble Protein Families Abundantly Expressed in an Anhydrobiotic Tardigrade. PLOS ONE, 7(8), e44209. DOI: 10.1371/journal.pone.0044209
