@@ -1,0 +1,6 @@
+Transcript_ID,Contig_ID,Log2FC,pI,Aromaticity,Signal_Peptide,Classification
+GBZR01011776.1,Hduj_v1_tr_11787,18.49,8.95,0.05,Absent,CAHS family (Cytosolic Vitrification)
+GBZR01007799.1,Hduj_v1_tr_07806,16.7,10.31,0.081,Present,SAHS family (Secreted Membrane Shield)
+GBZR01000616.1,Hduj_v1_tr_00616,13.52,9.58,0.085,Absent,TDP Chaperone (Stress Mediator)
+GBZR01011008.1,Hduj_v1_tr_11015,4.43,5.82,0.098,Absent,Acidic Disordered Linker
+GBZR01012413.1,Hduj_v1_tr_12425,3.8,N/A,N/A,N/A,28S Ribosomal RNA Scaffold

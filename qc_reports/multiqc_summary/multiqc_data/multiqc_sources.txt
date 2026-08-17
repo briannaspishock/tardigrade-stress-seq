@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	SRR3727515	/Users/briannaspishock/Desktop/qc_reports/SRR3727515_fastp.json
+fastp	all_sections	SRR3727516	/Users/briannaspishock/Desktop/qc_reports/SRR3727516_fastp.json
+fastp	all_sections	SRR3727517	/Users/briannaspishock/Desktop/qc_reports/SRR3727517_fastp.json
+fastp	all_sections	SRR3727518	/Users/briannaspishock/Desktop/qc_reports/SRR3727518_fastp.json
