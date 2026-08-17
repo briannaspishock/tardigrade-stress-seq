@@ -1,8 +1,7 @@
-# Tardigrade-stress-seq: anhydrobiosis RNA-seq pipeline & biophysical classifier
+## tardigrade-stress-seq: anhydrobiosis RNA-seq pipeline & biophysical classifier
 
 an automated, reproducible computational pipeline for quantifying, statistically testing, and biophysically classifying desiccation-induced vitrification genes (**TDPs**, **CAHS**, **SAHS**) in *Hypsibius exemplaris*.
 
-![biophysical mechanism](figures/cahs_vs_sahs_mechanism.png)
 
 ---
 
@@ -40,7 +39,7 @@ this repository processes paired-end RNA-seq cohorts from **Boothby et al. (2017
 
 ---
 
-## rproduction
+## reproduction
 
 ```bash
 # Upstream streaming, QC & quantification
